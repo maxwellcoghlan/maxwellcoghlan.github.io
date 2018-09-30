@@ -9,7 +9,7 @@ categories: posts
 
 ## Introducing Flex, a Jekyll theme
 
-Information about 2 myself. maybe a picture of myself or something like that
+Information aboudft 2 myself. maybe a picture of myself or something like that
 
 ## Open Sourced on GitHub
 
