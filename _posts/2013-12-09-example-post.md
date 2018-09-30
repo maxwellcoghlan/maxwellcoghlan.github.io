@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About Me
+subtitle: information about my life
 cover: cover.jpg
 date:   2013-12-09 12:00:00
 categories: posts
@@ -8,7 +9,7 @@ categories: posts
 
 ## Introducing Flex, a Jekyll theme
 
-Information about myself. blue maybe a picture of myself or something like that
+Information about 2 myself. maybe a picture of myself or something like that
 
 ## Open Sourced on GitHub
 
